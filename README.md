@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Kadir 
+#### Backend Developer
+![Backend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Kadir from Turkey. And i am a developer who likes to code and who is passionate about making software applications and learning new technologies.
+I am a developer who likes to code and who is passionate about making software applications and learning new technologies.
 
-Heres some technologies I have used 👉 .NET, JavaScript, Git, MSSQL, SQLite, MongoDB, Docker.
+Skills: .Net / T-SQL / MongoDB / eBA Workflow / JS / HTML / CSS
 
-And these are the technologies I want to understand completely and start learning in 2021 👉 Redis, PostgreSQL, ReactJS, Docker, Kubernetes and Kafka.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheOryZ)](https://github.com/TheOryZ/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/TheOryZ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kadirrturann//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/kadirrturann//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/12898065/kadir-turan)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TheOryZ)  
+
