@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kadir 
 #### Backend Developer
-![Backend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Backend Developer](https://github.com/TheOryZ/TheOryZ/blob/main/wallhaven-42kgzg.png)
 
 I am a developer who likes to code and who is passionate about making software applications and learning new technologies.
 
