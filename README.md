@@ -4,7 +4,13 @@
 
 I am a developer who likes to code and who is passionate about making software applications and learning new technologies.
 
-Skills: .Net / T-SQL / MongoDB / eBA Workflow / JS / HTML / CSS
+##Skills and Experience
+* .Net
+* .Net Core
+* T-SQL
+* JavaScript, HTML, CSS
+* MongoDB
+* eBA Workflow 
 
 
 
