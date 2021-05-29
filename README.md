@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kadir 
 #### Backend Developer
-![Backend Developer](https://github.com/TheOryZ/TheOryZ/blob/main/wallhaven-42kgzg.png)
+![Backend Developer](https://github.com/TheOryZ/TheOryZ/blob/main/wallhaven-j5op6p.png)
 
 I am a developer who likes to code and who is passionate about making software applications and learning new technologies.
 
