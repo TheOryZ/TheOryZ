@@ -7,7 +7,8 @@ I am a developer who likes to code and who is passionate about making software a
 ## Skills and Experience
 * .Net
 * .Net Core
-* T-SQL
+* Junior Gopher
+* T-SQL or NoSQL
 * JavaScript, HTML, CSS
 * MongoDB
 * eBA Workflow 
