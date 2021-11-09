@@ -2,7 +2,7 @@
 #### Backend Developer
 I am a developer who likes to code and who is passionate about making software applications and learning new technologies.
 
-![Backend Developer]
+
 
 ## Skills and Experience
 * .Net
