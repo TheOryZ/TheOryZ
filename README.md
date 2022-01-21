@@ -13,9 +13,13 @@ I am a developer who likes to code and who is passionate about making software a
 * MongoDB
 * eBA Workflow 
 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TheOryZ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kadirrturann)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kadirrturann)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12898065/kadir-turan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TuranKadirr)
+<p>
+  📣 Need to contact me? find me here :<br/>
+  <a href="mailto:kadirrturan@gmail.com?subject=[GitHub]%20🔥%20Getting%20in%20contact&body=Hello%20Kadir%2C%0A%0AI%20come%20to%20you%20today%20after%20seeing%20your%20GitHub%20profile%20for%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://instagram.com/kadirrturann/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kadirrturann"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/TuranKadirr"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
 ![snake svg](https://github.com/TheOryZ/TheOryZ/blob/output/github-contribution-grid-snake.svg)
 
