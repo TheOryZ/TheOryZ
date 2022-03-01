@@ -21,6 +21,8 @@ I am a developer who likes to code and who is passionate about making software a
   <a href="https://twitter.com/TuranKadirr"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
+![Kadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheOryZ&show_icons=true&theme=radical)
+
 ![snake svg](https://github.com/TheOryZ/TheOryZ/blob/output/github-contribution-grid-snake.svg)
 
 
