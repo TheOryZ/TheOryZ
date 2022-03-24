@@ -8,9 +8,8 @@ I am a developer who likes to code and who is passionate about making software a
 * .Net
 * .Net Core
 * Golang
-* T-SQL or NoSQL
+* SQL or NoSQL (T-SQL, PostgreSql, MongoDB etc.)
 * JavaScript, HTML, CSS
-* MongoDB
 * eBA Workflow 
 
 <p>
